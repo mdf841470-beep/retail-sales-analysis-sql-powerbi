@@ -38,6 +38,22 @@ May 2011 was peak revenue month with $221K. Seasonality detected.
 3. **Expand Markets**: Diversify beyond UK to reduce geographic risk
 4. **Prep for May**: Ramp up marketing/inventory before May peak season
 
+
+## 📊 Power BI Dashboard
+
+To visualize the SQL insights, I built an interactive Power BI dashboard.
+
+**Key Features:**
+- **KPI Cards**: Total Revenue, Total Orders, Total Customers
+- **Monthly Trend**: Line chart showing sales seasonality and peak in May 2011
+- **Top Products**: Bar chart of top 10 products by revenue  
+- **Country Revenue**: Map/table showing 82% revenue from UK
+- **Filters**: Interactive slicers for Date and Country
+
+**Dashboard File**: [`powerbi/SalesDashboard.pbix`](powerbi/SalesDashboard.pbix)
+
+### Dashboard Preview
+![Power BI Dashboard](shot1.png)
 ## Files
 - `1_vip_customers.csv` - Top customers by revenue
 - `2_best_products.csv` - Best selling products by quantity
