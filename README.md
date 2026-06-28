@@ -151,3 +151,29 @@ git clone https://github.com/your-username/retail-sales-analysis-sql.git
 ### Monthly Sales Trend Query
 ![Monthly Sales Trend](shot4.png)
 
+## 📊 Dataset
+
+This project uses the Online Retail Dataset containing over **541,000** transaction records from an online retail company between **December 2010 and December 2011**.
+
+### Dataset Summary
+
+| Metric | Value |
+|---------|-------|
+| Records | 541,909 |
+| Columns | 8 |
+| Customers | 4,372 |
+| Products | 4,070 |
+| Countries | 38 |
+
+### Key Columns
+
+- InvoiceNo
+- StockCode
+- Description
+- Quantity
+- InvoiceDate
+- UnitPrice
+- CustomerID
+- Country
+
+> **Note:** The complete dataset is not included in this repository because of its large size. The SQL queries and Power BI dashboard were created using the original dataset, while the generated analysis outputs are included as CSV files.
