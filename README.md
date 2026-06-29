@@ -25,25 +25,7 @@ This project analyzes an online retail dataset using SQL and Power BI to uncover
 
 ---
 
-## 📂 Project Structure
 
-```
-retail-sales-analysis-sql/
-│
-├── 1_vip_customers.csv
-├── 2_best_products.csv
-├── 3_country_revenue.csv
-├── 4_monthly_trends.csv
-├── powerbi_sales_dashboard.pbix
-├── dashboard screenshot.png
-├── shot1.png
-├── shot2.png
-├── shot3.png
-├── shot4.png
-└── README.md
-```
-
----
 
 ## 📊 SQL Analysis
 
